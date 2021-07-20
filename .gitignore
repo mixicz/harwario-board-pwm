@@ -2,3 +2,4 @@
 *.s#?
 *.job
 *.pro
+CAMOutputs/
