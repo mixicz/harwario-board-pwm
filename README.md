@@ -78,3 +78,11 @@ Alternatively, instead of directly routing core module GPIO, you can use [Adafru
 | mini battery module | [Hardwario TOWER mini battery module](https://shop.hardwario.com/mini-battery-module/)
 | header - PWM module | 1× 6-pin + 4× 4-pin socket header (2.54 mm spaced) |
 | PWM module | [Adafruit I2C 16-Channel 12-bit PWM](https://www.adafruit.com/product/815)
+
+# Known issues
+## v 1.0
+- Battery module needs higher header (at least 6mm) because of:
+    - C1 is too close to battery module header (it can be placed on the other side as workaround),
+    - R142, R162 are right below battery connector on module, risking short circuit,
+- L1 has too small footprint for most inductors available,
+- signal paths are only 0.3mm wide which complicates manufacturing with thicker Cu plating (70 µm or more).
