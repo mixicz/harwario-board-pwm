@@ -11664,6 +11664,7 @@ manufacturer Siemens</description>
 <pinref part="R101" gate="G$1" pin="1"/>
 <wire x1="193.04" y1="-20.32" x2="190.5" y2="-20.32" width="0.1524" layer="91"/>
 <wire x1="190.5" y1="-20.32" x2="187.96" y2="-17.78" width="0.1524" layer="91"/>
+<label x="190.5" y="-17.78" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P8" class="0">
@@ -11676,6 +11677,7 @@ manufacturer Siemens</description>
 <pinref part="R91" gate="G$1" pin="1"/>
 <wire x1="193.04" y1="2.54" x2="190.5" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="190.5" y1="2.54" x2="187.96" y2="5.08" width="0.1524" layer="91"/>
+<label x="189.992" y="5.08" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P7" class="0">
@@ -11688,6 +11690,7 @@ manufacturer Siemens</description>
 <pinref part="R81" gate="G$1" pin="1"/>
 <wire x1="109.22" y1="-66.04" x2="106.68" y2="-66.04" width="0.1524" layer="91"/>
 <wire x1="106.68" y1="-66.04" x2="104.14" y2="-63.5" width="0.1524" layer="91"/>
+<label x="106.68" y="-63.5" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P6" class="0">
@@ -11700,6 +11703,7 @@ manufacturer Siemens</description>
 <pinref part="R71" gate="G$1" pin="1"/>
 <wire x1="109.22" y1="-43.18" x2="106.68" y2="-43.18" width="0.1524" layer="91"/>
 <wire x1="106.68" y1="-43.18" x2="104.14" y2="-40.64" width="0.1524" layer="91"/>
+<label x="106.68" y="-40.64" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P5" class="0">
@@ -11712,6 +11716,7 @@ manufacturer Siemens</description>
 <pinref part="R61" gate="G$1" pin="1"/>
 <wire x1="109.22" y1="-20.32" x2="106.68" y2="-20.32" width="0.1524" layer="91"/>
 <wire x1="106.68" y1="-20.32" x2="104.14" y2="-17.78" width="0.1524" layer="91"/>
+<label x="106.68" y="-17.78" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="R7" gate="G$1" pin="1"/>
@@ -11729,6 +11734,7 @@ manufacturer Siemens</description>
 <pinref part="R51" gate="G$1" pin="1"/>
 <wire x1="109.22" y1="2.54" x2="106.68" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="106.68" y1="2.54" x2="104.14" y2="5.08" width="0.1524" layer="91"/>
+<label x="106.68" y="5.08" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="R6" gate="G$1" pin="1"/>
@@ -11834,6 +11840,7 @@ manufacturer Siemens</description>
 <pinref part="R161" gate="G$1" pin="1"/>
 <wire x1="276.86" y1="-66.04" x2="274.32" y2="-66.04" width="0.1524" layer="91"/>
 <wire x1="274.32" y1="-66.04" x2="271.78" y2="-63.5" width="0.1524" layer="91"/>
+<label x="273.05" y="-62.992" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P14" class="0">
@@ -11846,6 +11853,7 @@ manufacturer Siemens</description>
 <pinref part="R151" gate="G$1" pin="1"/>
 <wire x1="276.86" y1="-43.18" x2="274.32" y2="-43.18" width="0.1524" layer="91"/>
 <wire x1="274.32" y1="-43.18" x2="271.78" y2="-40.64" width="0.1524" layer="91"/>
+<label x="273.304" y="-40.64" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P13" class="0">
@@ -11858,6 +11866,7 @@ manufacturer Siemens</description>
 <pinref part="R141" gate="G$1" pin="1"/>
 <wire x1="276.86" y1="-20.32" x2="274.32" y2="-20.32" width="0.1524" layer="91"/>
 <wire x1="274.32" y1="-20.32" x2="271.78" y2="-17.78" width="0.1524" layer="91"/>
+<label x="273.05" y="-17.526" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P12" class="0">
@@ -11870,6 +11879,7 @@ manufacturer Siemens</description>
 <pinref part="R131" gate="G$1" pin="1"/>
 <wire x1="276.86" y1="2.54" x2="274.32" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="274.32" y1="2.54" x2="271.78" y2="5.08" width="0.1524" layer="91"/>
+<label x="273.304" y="5.334" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P11" class="0">
@@ -11882,6 +11892,7 @@ manufacturer Siemens</description>
 <pinref part="R121" gate="G$1" pin="1"/>
 <wire x1="193.04" y1="-66.04" x2="190.5" y2="-66.04" width="0.1524" layer="91"/>
 <wire x1="190.5" y1="-66.04" x2="187.96" y2="-63.5" width="0.1524" layer="91"/>
+<label x="188.976" y="-63.754" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P10" class="0">
@@ -11894,6 +11905,7 @@ manufacturer Siemens</description>
 <pinref part="R111" gate="G$1" pin="1"/>
 <wire x1="193.04" y1="-43.18" x2="190.5" y2="-43.18" width="0.1524" layer="91"/>
 <wire x1="190.5" y1="-43.18" x2="187.96" y2="-40.64" width="0.1524" layer="91"/>
+<label x="189.23" y="-40.386" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$2" class="0">
