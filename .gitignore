@@ -3,3 +3,4 @@
 *.job
 *.pro
 CAMOutputs/
+hw/eagle/bc-led_pwm-universal
